@@ -10,3 +10,7 @@ Specializing in custom software development, web and mobile applications, and in
 At Cutting Edge Development Studios, my mission is simple: **to deliver exceptional software that helps clients achieve their goals and thrive in a fast-changing digital world.** 
 
 With me, you’re not just hiring a developer — you’re gaining a dedicated partner in innovation.
+
+___
+_This README has been optimized for accessibility based on GitHub's blogpost
+"[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)"._
